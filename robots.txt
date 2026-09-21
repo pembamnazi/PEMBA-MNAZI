@@ -1,6 +1,5 @@
-```text
+text
 User-agent: *
 Allow: /
 
 Sitemap: https://pembamnazi.github.io/PEMBA-MNAZI-HISTORY/sitemap.xml
-```
